@@ -2,7 +2,7 @@
 var uploadedFile;
 
 // variable to store acceptable image file types
-var validFileTypes = ["jpg", "jpeg", "bmp", "gif", "png"];
+var validFileTypes = ["png", "jpeg"];
 
 // function to process files dragged into drop zone
 function dropHandler(ev) {
